@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Nonhlanhla🙎🏽‍♀️💻
 
-<!--
-**Nonhlamhla/Nonhlamhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a software engineer who is passionate aboute about building effective solutions for SME's, creating technology to elevate organisations and buidling immaculate UI/UX. Some technologies i work with include: Ionic 5, Angular 9, React API's, Firebase, Json, Android SDK, and Adobe XD.
 
