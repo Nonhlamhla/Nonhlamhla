@@ -3,7 +3,7 @@
 
 I'm a UI/UX Design Architect & Integration Associate who is passionate aboute about building effective solutions for SME's, creating technology to elevate organisations and buidling immaculate UI/UX Designs. I have assuemed the following Duties and responsibilities namely: Requirements Analysis, User Interface Design and Development using Adobe XD (Design, Wireframing & Prototyping). Business Process Analysis Tools (Azure DevOps), Business Process, Design Use Case and User Stories Strat, Integration of UI using SCSS, CSS & HTML, Client Interaction, Scrum & Agile Methodologies (working in Sprints, Standups, Sprint Reviews, Backlog Refinement, Sprint Retrospectives etc. Scrum Effort Estimation & Story Point using Fibonacci Sequence. Progressive Web Applications Development using Ionic 5 & Angular 9 Frameworks, Git Labs, Firebase, React API Integration. 
 
-Through working on several projects with <b>Fjord SA</b> I was able to greatly add relevant experience to my UI/UX Design Architecture skills. Head over to <b>Repositories</b> above to view my work.
+Through working on several projects with <b>Fjord SA</b> I was able to greatly add relevant experience to my UI/UX Design Architecture skills. Head over to <b>Repositories</b> above to view my work. Hop over to my repo's to see some of my work!!
 
 - 🔭 I’m currently working on acquiring my Azure, User-Centered Analysis and Conceptual Design Certifications.
 - 🌱 I’m currently expanding my knowledge in UI/UX Design Architecture.
